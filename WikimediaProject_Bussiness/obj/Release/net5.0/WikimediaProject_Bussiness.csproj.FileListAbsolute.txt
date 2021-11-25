@@ -1,0 +1,12 @@
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Bussiness\bin\Release\net5.0\WikimediaProject_Bussiness.deps.json
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Bussiness\bin\Release\net5.0\WikimediaProject_Bussiness.dll
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Bussiness\bin\Release\net5.0\ref\WikimediaProject_Bussiness.dll
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Bussiness\bin\Release\net5.0\WikimediaProject_Bussiness.pdb
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Bussiness\obj\Release\net5.0\WikimediaProject_Bussiness.csproj.AssemblyReference.cache
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Bussiness\obj\Release\net5.0\WikimediaProject_Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Bussiness\obj\Release\net5.0\WikimediaProject_Bussiness.AssemblyInfoInputs.cache
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Bussiness\obj\Release\net5.0\WikimediaProject_Bussiness.AssemblyInfo.cs
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Bussiness\obj\Release\net5.0\WikimediaProject_Bussiness.csproj.CoreCompileInputs.cache
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Bussiness\obj\Release\net5.0\WikimediaProject_Bussiness.dll
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Bussiness\obj\Release\net5.0\ref\WikimediaProject_Bussiness.dll
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Bussiness\obj\Release\net5.0\WikimediaProject_Bussiness.pdb

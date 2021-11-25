@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dyXb1W8iuEnVqvUlthZXdkPyMLGNkHZI5VDPULbZi/7HJSo8eNaiw+ILNWgtfNXGb4vnH2mUPAGLdWD0lsLcJA==",
+  "success": true,
+  "projectFilePath": "E:\\ProjectChallenge\\WikimediaProject\\WikimediaProject_Console\\WikimediaProject_Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MATIAS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}

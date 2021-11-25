@@ -1,0 +1,7 @@
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Console\bin\Release\net5.0\publish\WikimediaProject_Console.exe
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Console\bin\Release\net5.0\publish\WikimediaProject_Console.dll
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Console\bin\Release\net5.0\publish\WikimediaProject_Console.deps.json
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Console\bin\Release\net5.0\publish\WikimediaProject_Console.runtimeconfig.json
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Console\bin\Release\net5.0\publish\WikimediaProject_Console.pdb
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Console\bin\Release\net5.0\publish\WikimediaProject_Bussiness.dll
+E:\ProjectChallenge\WikimediaProject\WikimediaProject_Console\bin\Release\net5.0\publish\WikimediaProject_Bussiness.pdb

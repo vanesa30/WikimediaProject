@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WikimediaProject_Bussiness/1.0.0": {
+        "runtime": {
+          "WikimediaProject_Bussiness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WikimediaProject_Bussiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
